@@ -2,7 +2,9 @@
 
 
 
-!\[GitHub stars](https://img.shields.io/github/stars/sharp-edge/backend-interview-questions-guide?style=social)
+![GitHub stars](https://img.shields.io/github/stars/sharp-edge/backend-interview-questions-guide?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sharp-edge/backend-interview-questions-guide?style=social)
+![License](https://img.shields.io/github/license/sharp-edge/backend-interview-questions-guide)
 
 
 
