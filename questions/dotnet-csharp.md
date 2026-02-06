@@ -20,6 +20,54 @@
 
 ---
 
+## ORM & LINQ
+
+**Q: Difference between IEnumerable and IQueryable?**
+
+---
+
+**Q: What is AsNoTracking() and when should you use it?**
+
+---
+
+**Q: How do you optimize LINQ queries in .NET?**
+
+---
+
+## Database Indexing
+
+**Q: What are the different types of database indexes?**
+
+---
+
+## Design Patterns
+
+**Q: Explain the Singleton pattern and when to use it?**
+
+---
+
+**Q: Explain the Factory pattern and when to use it?**
+
+---
+
+**Q: What are Service and Repository patterns?**
+
+---
+
+## Inversion of Control & Dependency Injection
+
+**Q: What is Inversion of Control (IoC)?**
+
+---
+
+**Q: What are the three types of dependency injection in .NET (Singleton, Scoped, Transient)?**
+
+---
+
+**Q: When would you use Singleton vs Scoped vs Transient lifetime?**
+
+---
+
 ## Topics Covered in Interviews
 
 The following topics are commonly discussed in .NET backend interviews in Pakistan:
