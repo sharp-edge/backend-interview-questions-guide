@@ -20,6 +20,16 @@
 
 ---
 
+## C# Fundamentals
+
+**Q: What are the pillars of OOP? Define with examples.**
+
+---
+
+**Q: What does the static keyword mean in C#?**
+
+---
+
 ## ORM & LINQ
 
 **Q: Difference between IEnumerable and IQueryable?**
@@ -37,6 +47,10 @@
 ## Database Indexing
 
 **Q: What are the different types of database indexes?**
+
+---
+
+**Q: What are the advantages and disadvantages of indexing?**
 
 ---
 

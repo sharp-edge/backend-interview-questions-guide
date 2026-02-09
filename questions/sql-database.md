@@ -14,6 +14,10 @@
 
 ---
 
+**Q: Primary key vs Unique key?**
+
+---
+
 **Q: How do you decide which column to index?**
 
 ---
